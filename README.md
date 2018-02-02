@@ -15,7 +15,7 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 
 1. Clone the purealoe repository:
     ```
-    git clone https://github.com/dreamforce17/purealoe
+    git clone https://github.com/sanbornbrecker/purealoe
     cd purealoe
     ```
 
